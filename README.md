@@ -37,7 +37,7 @@ Feel free to explore my repositories to see more of my work!
 
 📫 You can reach me via:
 
-- Email   : [zakaria]       (zakariasinhay4@gmail.com)
+- Email   : [zakaria](zakariasinhay4@gmail.com)
 - LinkedIn: [Sinshi-ザカリア](https://www.linkedin.com/in/zakaria-bouhamidi-059b67279/)
 
 ## Stats
