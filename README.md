@@ -1,4 +1,4 @@
-[![WELCOME TO ZAKINSHI'S GitHub PS](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+ZAKINSHI'S+GitHub+PS;)](https://git.io/typing-svg)
+[![WELCOME TO ZAKINSHI'S GitHub PS](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+ZAKINSHI'S+GitHub+SP;)](https://git.io/typing-svg)
 ![sayingHello](https://imgs.search.brave.com/0QeQuV_i5NRyXk1UzL_6ov0hjinozNFZw7bzYjFESgI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZmL0Fz/c2FsYW11LWFsZXlr/dW0uc3ZnLzY0MHB4/LUFzc2FsYW11LWFs/ZXlrdW0uc3ZnLnBu/Zw)
 
 # About Me
