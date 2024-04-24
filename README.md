@@ -1,6 +1,7 @@
-# About Me
+![sayingHello](https://imgs.search.brave.com/-c0ylUG1eoAcx0J0HoAW3CuHR1CeZB3-awYr4pKSFZc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1Lzc0LzM3LzQx/LzM2MF9GXzU3NDM3/NDEzMV9peHdBTkh0/cW00dVVZemplNHYw/TFFiM0M5MEp0QlJC/Ty5qcGc)
 
-👋 Hey there! I'm `ZAKARIA BOUHAMIDI`, a passionate software engineering student at ` 1337 ` https://1337.ma/en/. Welcome to my GitHub profile!
+# About Me
+I'm `ZAKARIA BOUHAMIDI`, a passionate software engineering student at ` 1337 ` https://1337.ma/en/. Welcome to my GitHub profile!
 
 ## Bio
 
