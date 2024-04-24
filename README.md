@@ -42,12 +42,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Stats
 
-📊 Here's a snapshot of my GitHub activity:
-
-- **Repositories**: [X]
-- **Contributions in the last year**: [Y]
-- **Followers**: [Z]
-
+(https://github.com/anuraghazra/github-readme-stats)
 ## Contribution
 
 🌟 If you find my work helpful or interesting, consider giving it a star or contributing!
