@@ -41,8 +41,7 @@ Feel free to explore my repositories to see more of my work!
 - LinkedIn: [Sinshi-ザカリア](https://www.linkedin.com/in/zakaria-bouhamidi-059b67279/)
 
 ## Stats
-
-(https://github.com/anuraghazra/github-readme-stats)
+https://github.com/anuraghazra/github-readme-stats
 ## Contribution
 
 🌟 If you find my work helpful or interesting, consider giving it a star or contributing!
