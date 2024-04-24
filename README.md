@@ -37,7 +37,7 @@ Feel free to explore my repositories to see more of my work!
 
 📫 You can reach me via:
 
-- Email   : [zakaria](https://mail.google.com/mail/u/0/#inbox)
+- Email   : [zakaria](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQKmTHWQtDSvvtBKGQdsmZmwNPcDgXRnbCKwjCPPSGnmSSvrzvVrMBjPRhXXPLcCSDtMT)
 - LinkedIn: [Sinshi-ザカリア](https://www.linkedin.com/in/zakaria-bouhamidi-059b67279/)
 
 ## Stats
