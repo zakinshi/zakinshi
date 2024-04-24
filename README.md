@@ -7,7 +7,7 @@ I'm `ZAKARIA BOUHAMIDI`, a passionate software engineering student at ` 1337 ` h
 
 🚀 Passionate Software Engineer
 
-💻 Adept in C++, with a knack for crafting elegant solutions. Let's innovate together and chase YOUR D R E A M S! 🌟 夢を追いかける
+💻 Adept in C/C++, with a knack for crafting elegant solutions. Let's innovate together and chase YOUR D R E A M S! 🌟 夢を追いかける
 
 🔧 Skills: Proficient in C++98, specializing in algorithm design, data structures, and object-oriented programming. Dedicated to optimizing code efficiency and performance.
 
@@ -37,8 +37,8 @@ Feel free to explore my repositories to see more of my work!
 
 📫 You can reach me via:
 
-- Email   : [zakariasinhay4@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/zakaria-bouhamidi-059b67279/]
+- Email   : [zakaria]       (zakariasinhay4@gmail.com)
+- LinkedIn: [Sinshi-ザカリア](https://www.linkedin.com/in/zakaria-bouhamidi-059b67279/)
 
 ## Stats
 
