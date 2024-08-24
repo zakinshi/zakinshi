@@ -21,7 +21,7 @@ I'm **ZAKARIA BOUHAMIDI**, a passionate software engineering student at [1337](h
 💬 Connect with Me: Excited to connect with fellow developers and tech enthusiasts. Let's collaborate and create something amazing!
 
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=zakbouha)](https://github.com/mohouyizme/1337-readme)
+[![zakbouha's 42 stats](https://badge.mediaplus.ma/landscapes/zakbouha)](https://github.com/oakoudad/badge42)
 
 
 ## Projects
