@@ -124,14 +124,14 @@ Feel free to explore my repositories to see more of my work!
 </p>
 
 
-## Stats
+<h1>Stats</h1>
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakinshi&show_icons=true&locale=en" alt="zakinshi" />
 </p>
 
-## Contribution
-Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
+<!-- ## Contribution
+Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing. -->
 
 🌟 If you find my work helpful or interesting, consider giving it a star or contributing!
 
