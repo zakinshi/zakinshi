@@ -32,13 +32,7 @@ I'm **ZAKARIA BOUHAMIDI**, a passionate software engineering student at [1337](h
 
 Feel free to explore my repositories to see more of my work!
 
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=zakinshi" alt="zakinshi" />
-    </a>
-</p>
+<br>
 
 <h1 align="left">Languages and Tools :</h1>
 <p align="center">
