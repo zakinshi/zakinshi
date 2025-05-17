@@ -138,6 +138,8 @@ Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing. -->
     </a>
 </p>
 
+<br>
+
 🌟 If you find my work helpful or interesting, consider giving it a star or contributing!
 
 Happy coding! 🚀
