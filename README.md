@@ -41,28 +41,35 @@ Feel free to explore my repositories to see more of my work!
 </p>
 
 <h1 align="left">Languages and Tools :</h1>
-<div align="left">
+<div align="left" style="display:flex; flex-wrap: wrap">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
+    &nbsp;
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
