@@ -17,7 +17,8 @@ I'm **ZAKARIA BOUHAMIDI**, a passionate software engineering student at [1337](h
 
 🔗 Projects: Actively contributing to open-source projects on GitHub, showcasing expertise in software development and collaborative problem-solving.
 
-💬 Connect with Me: Excited to connect with fellow developers and tech enthusiasts. Let's collaborate and create something amazing!
+💬 [Connect with Me](https://linkedin.com/in/zakinshi4) : Excited to connect with fellow developers and tech enthusiasts.
+Let's collaborate and create something amazing!
 
 
 [![zakbouha's 42 stats](https://badge.mediaplus.ma/landscapes/zakbouha)](https://github.com/oakoudad/badge42)
