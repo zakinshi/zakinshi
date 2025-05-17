@@ -41,9 +41,10 @@ Feel free to explore my repositories to see more of my work!
 </p>
 
 <h1 align="left">Languages and Tools :</h1>
-<p align="left">
+<div align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -113,21 +114,16 @@ Feel free to explore my repositories to see more of my work!
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
-<!-- 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakinshi&show_icons=true&locale=en&layout=compact" alt="zakinshi" />
-</p> -->
-</p>
 
+</div>
+
+<br>
 
 <h1>Stats</h1>
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakinshi&show_icons=true&locale=en" alt="zakinshi" />
 </p>
-
-<!-- ## Contribution
-Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing. -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -136,7 +132,12 @@ Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing. -->
     </a>
 </p>
 
-<hr style="border: 1px solid #333; width: 50%;">
+<!-- 
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakinshi&show_icons=true&locale=en&layout=compact" alt="zakinshi" />
+</p> -->
+
+<hr style="border: 0.5px solid #333; width: 50%;">
 <br>
 
 🌟 If you find my work helpful or interesting, consider giving it a star or contributing!
