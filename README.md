@@ -117,10 +117,10 @@ Feel free to explore my repositories to see more of my work!
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
-
+<!-- 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakinshi&show_icons=true&locale=en&layout=compact" alt="zakinshi" />
-</p>
+</p> -->
 
 
 <h1>Stats</h1>
