@@ -101,7 +101,11 @@ Feel free to explore my repositories to see more of my work!
     </a>
     &nbsp;
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="assests/nextdotjs.svg" alt="nextjs" width="55" height="55"/>
+        <picture>
+            <source srcset="assets/nextjs-dark.svg" media="(prefers-color-scheme: dark)" />
+            <source srcset="assets/nextjs-light.svg" media="(prefers-color-scheme: light)" />
+            <img src="assets/nextjs-light.svg" width="55" height="55" alt="nextjs"/>
+        </picture>
     </a>
     &nbsp;
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
