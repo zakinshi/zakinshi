@@ -145,11 +145,6 @@ Feel free to explore my repositories to see more of my work!
 
 <br>
 
-<h1>Stats</h1>
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakinshi&show_icons=true&locale=en" alt="zakinshi" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -158,10 +153,6 @@ Feel free to explore my repositories to see more of my work!
     </a>
 </p>
 
-<!-- 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakinshi&show_icons=true&locale=en&layout=compact" alt="zakinshi" />
-</p> -->
 
 <hr style="border: 0.5px solid #333; width: 50%;">
 <br>
