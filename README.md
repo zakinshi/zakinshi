@@ -139,6 +139,8 @@ Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing. -->
 </p>
 
 <br>
+<hr style="border: 1px solid #333; width: 50%;">
+<br>
 
 🌟 If you find my work helpful or interesting, consider giving it a star or contributing!
 
