@@ -40,8 +40,8 @@ Feel free to explore my repositories to see more of my work!
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h1 align="left">Languages and Tools:</h1>
+<hr style="border: 0.5px solid #333; width: 50%;">
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -118,11 +118,11 @@ Feel free to explore my repositories to see more of my work!
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakinshi&show_icons=true&locale=en&layout=compact" alt="zakinshi" />
 </p> -->
-
 </p>
 
 
 <h1>Stats</h1>
+<hr style="border: 0.5px solid #333; width: 50%;">
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakinshi&show_icons=true&locale=en" alt="zakinshi" />
@@ -138,7 +138,6 @@ Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing. -->
     </a>
 </p>
 
-<br>
 <hr style="border: 1px solid #333; width: 50%;">
 <br>
 
