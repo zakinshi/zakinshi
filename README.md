@@ -101,7 +101,7 @@ Feel free to explore my repositories to see more of my work!
     </a>
     &nbsp;
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="55" height="55"/>
+        <img src="assets/nextdotjs.svg" alt="nextjs" width="55" height="55"/>
     </a>
     &nbsp;
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
