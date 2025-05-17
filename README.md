@@ -34,7 +34,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Skills
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakinshi" alt="zakinshi" /></a> </p>
 
