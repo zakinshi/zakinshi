@@ -40,11 +40,10 @@ Feel free to explore my repositories to see more of my work!
     </a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
-<hr style="border: 0.5px solid #333; width: 50%;">
+<h1 align="left">Languages and Tools :</h1>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -122,7 +121,6 @@ Feel free to explore my repositories to see more of my work!
 
 
 <h1>Stats</h1>
-<hr style="border: 0.5px solid #333; width: 50%;">
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakinshi&show_icons=true&locale=en" alt="zakinshi" />
