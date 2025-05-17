@@ -41,7 +41,7 @@ Feel free to explore my repositories to see more of my work!
 </p>
 
 <h1 align="left">Languages and Tools :</h1>
-<div align="left" style="display:flex; flex-wrap: wrap">
+<p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
@@ -74,6 +74,7 @@ Feel free to explore my repositories to see more of my work!
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
     &nbsp;
+    <br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
@@ -110,6 +111,7 @@ Feel free to explore my repositories to see more of my work!
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
     &nbsp;
+    <br>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
@@ -138,7 +140,7 @@ Feel free to explore my repositories to see more of my work!
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
 
-</div>
+</p>
 
 <br>
 
