@@ -1,6 +1,6 @@
 [![WELCOME TO ZAKINSHI'S GitHub PS](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+ZAKINSHI'S+GitHub+SP;STUDENT+AT+1337school+\(42+NETWORK\))](https://git.io/typing-svg)
 
-![Animated Demo](video/vBanner.gif)
+![Animated Demo](video/inBanner.gif)
 
 # About Me
 I'm **ZAKARIA BOUHAMIDI**, a passionate software engineering student at [1337](https://1337.ma/en/). Welcome to my GitHub profile!
